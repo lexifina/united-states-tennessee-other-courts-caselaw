@@ -1,0 +1,24 @@
+---
+court: "Tennessee Chancery Court"
+decided: "1876-04"
+citations: ["2 Tenn. Ch. R. 631"]
+reporter: "tenn-ch-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sidney P. Smith and others vs. Republic Life Insurance Company and others."]
+source_url: "https://static.case.law/tenn-ch-r/2/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8482620
+---
+
+# Smith v. Republic Life Insurance
+
+## Majority (The Chancellor :)
+
+The Chancellor :
+— To enable the owners of real estate to raise money by mortgage, the laws must be such as to secure to the purchaser a good title, and to the lender a prompt foreclosure on default. The laws of this state are as unexceptionable in these regards as those of any other state in the Union. The defect has been in their practical working in the matter of foreclosure, from the ease with which injunctions could be obtained, thus delaying sales, and tempting the debtor into expensive litigation of no practical benefit in the end. To obviate the evil in part, at least, the act of the 28th of February, 1873, ch, 10, was passed by the legislature. By the 1st section of this act it is provided that no judge or Chancellor shall grant an injunction to stay the sale of real estate conveyed by deed of trust or mortgage, with a power of sale, to secure loaned money, except upon twenty days’ notice to the trustee or mortgagee of the time and place of the application. By the 2d section it is provided that the party applying shall distinctly state when, and to whom, any part of the debt has been paid, and any circumstances of fraud which vitiate the contract, and the trustee or mortgagee is allowed the privilege of filing an answer, whereupon it is made the duty of the judge or Chancellor, upon said bill and answer, to hear said cause “ as upon motion to dissolve the injunction.” The purpose of the statute is to require a plain showing by the complainant of a sufficient cause for an injunction, and to give the defendant an opportunity to meet the case by an answer, as upon a motion to dissolve an injunction granted ex parte.
+In this state of the law the present case presents the curious anomaly of an application for an injunction upon a bill filed without being sworn to by the complainant, and of the defendants allowing the application to be heard upon answers not sworn to, and, therefore, no answers at all, under the settled rule that an answer without oath is not sufficient to dissolve an injunction. High on Inj. § 908.
+The bill is by a married woman, sworn to by the next friend. But it is clear such an oath is insufficient to authorize an injunction in this class of cases, unless, indeed, the facts upon which the equity of the bill rests are peculiarly within the knowledge of the next friend, and are so shown to be by the bill itself, or the accompanying affidavit. Campbell v. Morrison, 7 Paige, 157. No such showing is made in this case. The facts relied on, if facts they be, are such as can, ordinarily, rest only in the knowledge of the married woman herself — such as her ignorance of the contents of the trust deed, and the representations made to her by her husband, of which she avers the defendants were in part aware. The oath of the next friend amounts to nothing; for, even if his information was derived from the complainant, that information was not sanctioned by an oath, and may have been given merely for the purpose of enabling the informant to do what the informer could not berselfdo. It is only hearsay. Stevens v. Post, 1 Beas. 422.
+This defect is fatal, and the injunction must be refused.
+If, however, the bill disclosed real merits, I would suspend the sale until the personal oath of the complainant could be obtained. But the ignorance of the complainant of the terms of the deed in the respects complained of, and the misrepresentations of the husband to her, if the igno-xance was not actively superinduced by the defendants and the misrepresentations participated in by them, would constitute no ground for an injunction. And if the alleged knowledge of the defendants were denied by the person through whom the negotiations for the loan were made, by answer under oath, instead of an answer not under oath, as has been done in the present instance, I should refuse the injunction. I am doubtful whether the equity of the bill would stand a demurrer, consisting, as it does, rather in averment of opinion than of fact, and I am clear it certainly would not resist a denial under oath.
+In view of the statute and its object, the affidavit should be special to the truth of all the material facts upon which the application is founded, either by the complainant or Other person having knowledge, or both. The ordinary affidavit would be insufficient. Campbell v. Morrison, 7 Paige, 157; Youngblood v. Schamp, 2 McCart. 42.
