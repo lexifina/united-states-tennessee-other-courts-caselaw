@@ -1,0 +1,20 @@
+---
+court: "Tennessee Chancery Court"
+decided: "1877-04"
+citations: ["3 Tenn. Ch. R. 350"]
+reporter: "tenn-ch-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mumford Smith and others v. St. Louis Mutual Life Insurance Company and others."]
+source_url: "https://static.case.law/tenn-ch-r/3/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8480855
+---
+
+# Smith v. St. Louis Mutual Life Insurance
+
+## Majority (The Chancellor:)
+
+The Chancellor:
+The original hill in this cause was filed by policy-holders of the St. Louis Mutual Life Insurance Company, to attach the property of that, company in this state, and to subject the same to the satisfaction of their claims, upon the ground of the insolvency of the company and the non-user of its franchises. An application was made by that company, and its co-defendants the Columbia Life Insurance Company and the Life Association of America, to remove the cause to the Federal court, which application this court declined to allow. The cause proceeded in due course, and was finally heard on the merits at the present term, and a decree rendered in favor of the complainants, declaring their right to subject the property attached, and ordering an account. After the rendition of this decree, the present bill was filed by some of the original plaintiffs and policy-holders, in behalf of themselves and all other policy-holders of this state, to reach certain realty alleged to belong to the St. Louis Mutual Life Insurance ■Company, though purchased by one of the co-defendant •companies at a sale made on the foreclosure of a mortgage or deed of trust given to secure money loaned by the former company. The Columbia Life Insurance Company and the Life Association of America have filed a petition and tendered a bond for the purpose of removing the case to the Federal court.
+The petition does not undertake to detail the facts as above set forth, but merely states the names of the complainants actually mentioned in the supplemental bill, and avers that they are the “ only complainants,” and that the petitioners are the only defendants, and asks that the suit be removed. If the application be to remove the entire suit, including the original bill, the application cannot be entertained. The application comes too late, considered as now made for the first time, so far as the original bill is concerned. If the application be only to remove the supplemental suit, it raises the question whether a supplemental suit of this character can be removed, when the original suit to which it is supplementary is left in this court. The learned counsel for the petitioners has not furnished me with, any authority in support of his application, nor-have I been able to find any ground upon which it can be sustained. A supplemental bill is a proper mode of reaching after acquired property of a debtor proceeded against by a. creditor’s bill, or newly discovered property of such a. debtor. Eager v. Price, 2 Paige, 337. It is eminently proper in a case of this character, where the creditor’s right to subject the debtor’s property is fixed by decree, for in no other way could the creditor obtain the benefit of the-previous proceedings as effectually, and with as little cost. Story’s Eq. PL, sec. 338. The supplemental suit grafts the-new matter, and new parties, if any, into the original suit, and enables the court to deal with the matter and parties of both records as one record. Wilkinson v. Fowkes, 9 Hare, 198. And the defendants to both suits would not be-permitted, in the supplemental suit introducing new matter,, to go into evidence of the matters involved in and settled by the original suit. Wilkinson v. Fowkes, 9 Hare, 594. To allow such a supplemental suit to be removed into the [Federal court, while the original suit continues in this court, would lead to “most admired disorder.” It must take the quality and share the fate of the suit to which it is-supplemental.
