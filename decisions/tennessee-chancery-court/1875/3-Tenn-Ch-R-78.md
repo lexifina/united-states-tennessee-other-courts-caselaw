@@ -1,0 +1,21 @@
+---
+court: "Tennessee Chancery Court"
+decided: "1875-10"
+citations: ["3 Tenn. Ch. R. 78"]
+reporter: "tenn-ch-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Minerva G. Owen v. B. F. Cook and others."]
+source_url: "https://static.case.law/tenn-ch-r/3/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8477341
+cites_cases: ["1 Humph. 537"]
+---
+
+# Owen v. Cook
+
+## Majority (The Chancellor:)
+
+The Chancellor:
+Land in this case was sold, for purposes of partition, to one Hall, who executed his notes; for the purchase-money as required by the terms of sale.. The first note falling due, and one Redmon proposing to* pay it for him on certain terms, the owners of the property, for whose benefit the sale was made, accepted his-proposition, and the agreement was embodied in a decree' entered in this cause on May 12, 1874. This decree is in these words: “In this cause it appearing to the satisfaction of the court that Hall, the purchaser of the land described in the pleadings, is unable to pay in full his first purchase-note, and that T. W. .Redmon is willing to pay the same for the said Hall, and that he is desirous that the' said Redmon should so pay it, it is therefore, by the-conseut of the parties 'in interest, ordered and decreed by the court that, upon the payment of said first purchase-note' by the said Redmon, he be substituted to the rights of those for whom the said land has been sold for the purposes of' partition, to the extent that he shall have their lien pro-tanto upon the said land for the money paid by him for the said Hall.” The purchaser having failed to pay his other notes, and being insolvent, the land was resold for less than it brought at the original sale.
+The parties now differ as to the agreement. Redmon-insists that he was to be entitled to priority of satisfaction,, while the owners of the land claim that he was only to be-subrogated to their rights to the extent of the money thus paid, after the residue of the purchase-money was paid. I do not think that the language used admits of either construction. The decree says that, upon the payment of the-first purchase-note by Redmon, he be substituted to the-rights ef those for whom the said land had been sold, “ to the extent that he shall have their lien pro tanto upon the said land ” for the money so paid by him. Now, what is “ their lien” upon the land? It is, speaking accurately, the lien, reserved on the whole land for the whole purchase-money. In this view, Redmon woul 1 come into this common lien to the extent of the money so paid by him, and share pro-rata with them in the proceeds realized. The parties probably meant to subrogate Redmon to the lien of the note-thus paid by him, in whole or in part; but, if so, it would not alter the result. The transaction was, in that view, merely an assignment to Redmon of the note so paid, with the lien retained for its payment. But it is the settled law of this state, where land is sold and promissory notes taken for the payment of the purchase-money, retaining a lien for their security, and some of them are assigned with the lien and others retained, tliat if there be not in such contract of assignment an indication of an intention to give the assigned notes a preference, none will be given, but the property will be sold for the satisfaction of all the notes pro rala, should there be a deficiency. Ewing v. Arthur, 1 Humph. 537 ; Smith v. Cunningham, 2 Tenn. Ch. 565. There is not the least indication in the decree, or the agreement embodied in it, of an intention to give a preference to Kedmon to the extent of the money thus paid. He is simply to have the owners’ lien pro tanto, —no more and no less. That lien is “ for the satisfaction of all the notes pro rata, if there be a deficiency.” If more were intended, it has not been expressed ; and whatever construction parties may voluntarily tout upon agreements, when they come into court the law can only construe the language used. Nobody at the time, probably, thought of a deficiency, and the contingency has not been provided for. There is nothing in this case to take it out of the rule that equality is equity.
