@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1877-04"
-citations: ["3 Tenn. Ch. R. 338", "3 Tenn. Ch. R. 362"]
+decided_precision: "month"
+citations: ["3 Tenn. Ch. R. 338"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Nashville Savings-Bank v. Mayor and City Council of Nashville."]
 source_url: "https://static.case.law/tenn-ch-r/3/cases/0338-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8480627
-cites_cases: ["1 Tenn. 1"]
 ---
 
 # Nashville Savings-Bank v. Mayor of Nashville
