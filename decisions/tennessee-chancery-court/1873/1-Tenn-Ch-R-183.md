@@ -1,0 +1,22 @@
+---
+court: "Tennessee Chancery Court"
+decided: "1873-04"
+decided_precision: "month"
+citations: ["1 Tenn. Ch. R. 183"]
+reporter: "tenn-ch-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. Montgomery vs. Olwell Bros."]
+source_url: "https://static.case.law/tenn-ch-r/1/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8477273
+cites_cases: ["2 Heisk. 217"]
+---
+
+# Montgomery v. Olwell Bros.
+
+## Majority (The Chancellor :)
+
+The Chancellor :
+To the complainant’s bill, filed during tbe present term, the defendants put in a plea of a previous suit pending in this court between the same parties and for tbe same matter. Tbe complainant having taken no action on this plea, tbe defendants now move the court for a rule on him to procure a reference to tbe master to look into tbe two suits, and to report whether or not they are both for the same matter. According to the general order of the English chancery court, the reference to the master upon such a plea is to be procured by thq plaintiff, and a report thereupon within one month after the filing of such plea, otherwise the bill to stand dismissed of course with costs. Story Eq. PL, § 743. By the New York Buies, the defendant was required to procure the reíerence. 1 Hoff. Ch. Pr. 225. As we have in this state no such general orders as those upon which the practice in England and New York is based, it was thought that the court could supply it by a special order in the particular case. And this seems to be the course pursued in Green v. Neal, 2 Heisk. 217. But upon examination it will be seen that the mode of procedure upon pleas in chancery is regulated by the Code. Section 4393 provides : “If the plaintiff conceives any plea or demurrer to be naught, either for the matter or the manner of it, he may set it down with the clerk to be argued; or, if he think the plea good but not true, he may take issue upon it, and proceed to trial.” This provision is general and applies to all pleas without distinction. The anomaly in the mode of procedure upon a plea of the character of the one filed in this case, noticed and commented on in Story’s Eq. PL § 744, is also done away with by this section of the Code. The complainant has the right to set the plea for hearing on its sufficiency, or to take issue upon it. This is clear, but it is not so clear within what time his election should be made, nor how it may be hastened. Section 4394 of the Code is : “A demurrer or a plea shall be set for argument at the first term.” It might be argued that this language implied that the complainant has the whole term within which to set a plea or demurrer for argument. But the true meaning of it is that if the complainant fail to set the plea or demurrer for hearing at the first term, the defendant has the right to consider'tbe sufficiency of bis plea or demurrer as admitted, and to act accordingly. It does not necessarily follow that tbe defendant may not, if be see proper, basten tbe complainant’s action.
+For tbe prompt dispatch of business it is provided by tbe Code, § 4389, that tbe defendant may make a rule in tbe clerk’s office on tbe complainant to take airy step necessary to the progress of the cause, of which rule tbe clerk is required to give immediate notice to tbe party interested, or bis counsel. Section 4390 is : “ If tbe party, upon whom such rule is made, fail to take tbe necessary step, tbe Chancellor,' at the next term, unless good cause be shown for tbe failure, shall make a peremptory rule, fixing tbe time within which tbe step shall be taken, and if not so taken, tbe cause shall be dismissed.” The literal wording of this section would imply a rule in tbe master’s office in vacation, and a peremptory rule in court at tbe next term. But a rule in tbe clerk’s office at any time during tbe term would be within tbe spirit of the law, and a failure to comply with it upon tbe allowance of a reasonable time would justify an application to tbe Chancellor, tbe continuing term being tbe “ next ” or nearest term within tbe meaning of tbe section. These provisions of tbe Code are binding upon tbe court. Tbe setting a plea for bearing on its sufficiency or taking issue upon it, is a “ step necessary to tbe progress of a cause.” Tbe motion cannot be entertained, therefore, without showing that tbe preliminary rule has been first taken in tbe clerk’s office.
