@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1875-04"
-citations: ["3 Tenn. Ch. R. 49", "3 Tenn. Ch. R. 52"]
+decided_precision: "month"
+citations: ["3 Tenn. Ch. R. 49"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["James W. Tyne v. John Dougherty."]
 source_url: "https://static.case.law/tenn-ch-r/3/cases/0049-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8477044
-cites_cases: ["1 Head, 555", "1 Swan, 274", "10 Heisk. 124", "11 Humph. 523", "2 Johns. Ch. 202", "3 Ired. Eq. 153", "3 Md. Ch. 392", "3 Yerg. 366", "4 Jones Eq. 71", "4 Sneed, 196", "4 Yerg. 372", "6 Cranch, 51", "9 Yerg. 207"]
+cites_cases: ["1 Head, 555", "1 Swan, 274", "10 Heisk. 124", "11 Humph. 523", "3 Yerg. 366", "4 Sneed, 196", "4 Yerg. 372", "9 Yerg. 207"]
 ---
 
 # Tyne v. Dougherty
