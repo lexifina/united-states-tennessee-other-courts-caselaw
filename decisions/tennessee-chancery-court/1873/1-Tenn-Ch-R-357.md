@@ -1,0 +1,35 @@
+---
+court: "Tennessee Chancery Court"
+decided: "1873-10"
+citations: ["1 Tenn. Ch. R. 357"]
+reporter: "tenn-ch-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward Jones & others vs. Hugh Douglass & others."]
+source_url: "https://static.case.law/tenn-ch-r/1/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8479548
+cites_cases: ["1 Cold. 581", "1 Swan, 75", "3 Heisk. 614"]
+---
+
+# Jones v. Douglass
+
+## Majority (The Chancellor :)
+
+The Chancellor :
+From the character of the parties who are active in having a final decree in this cause for a sale of the realty, and a settlement on the infant defendants of one thousand dollars of the proceeds of sale, I can have no doubt that this course is, by the nearest friends of the infants, believed to be manifestly for their interest, and it probably is so. My duty, however, is not only to look to the present interests of the infants, but to see that the purchaser of realty, sold under the decrees of this court, shall get a good title. An examination of these papers shows that this cannot be done as the case now stands.
+The facts are that George F. Jones died about the 1st of November, 1869, leaving a widow and eight children. He seems to have owned a house and lot on Market street, mortgaged by him in his lifetime, which was sold, under a foreclosure decree, by tbis court, for $5,650, the mortgage debt being $3,650. He also owned a bouse and lot on Cbérry street in Nashville, wbicb was allotted to the widow in dower. The widow became administratrix, and died, it does not appear when, without making any settlement as administra-trix, but having returned an inventory of assets. After her death, some time in 1871, John C. Ferriss was appointed administrator de bonis non, and he has suggested the insolvency of the estate, not having received, he says, any effects from his predecessor in the administration, and there being no personal property not exempt from execution, and the assets in the administratrix’s inventory worthless.
+This bill is filed by John C. Ferriss, administrator de bonis non, and Edward Jones, the only adult child of the intestate, against the creditors of the estate, and the infant children of G. F. Jones, for a sale of the Cherry street house and lot, upon three different grounds :
+1. That the personal assets are insufficient to pay the debts.
+2. That the sale asked for is manifestly for the interest of the infants, and necessary for their support.
+3. That the complainant Edward Jones, as tenant in common with his infant brothers and sisters, is entitled to a sale of said lot for division.
+There has been a reference to the clerk and master to ascertain and report the indebtedness of the estate, whether there is any personalty belonging to the estate, and any necessity of subjecting the land to the payments of debts. Also whether it is manifestly for the interest of the minor defendants to sell the ‘ ‘ surplus lands over and above paying off debts,” and whether the same is cajaable of partition.
+The clerk and master, upon this reference, took the depositions of John C. Ferriss and G. P. NorvelL The former says the estate owes Mrs. Fair about $400, one Martin $300, and Shields & Co. several hundred dollars. He says there is an amount of money in the clerk and master’s hands, perhaps alluding to the excess over the mortgage debts of the proceeds of sale of the Market street lot, but, he adds, not enough to pay all the debts by about $1,200. He says the administratrix exhausted the personal means in her hands in the payment of debts, and he knows of no other personalty. He gives it as his opinion that the lot cannot be sold to any advantage by dividing it, nor can it be partitioned so as to set apart a homestead to the children.
+Norvell says the Cherry street lot fronts 60 feet and runs back 180, and has upon it a two-story brick dwelling house, with an ell; also a small frame store. He does not think the property can be divided and sold to as much advantage as altogether.
+The clerk and master, upon this proof, reported that it was necessary to sell to pay debts, that the property was incapable of division, and that it is manifestly to the interest of the infants that the property should be sold.
+This report was confirmed, and a decree ordering a sale of the land made on the 16th of February, 1872.
+It is obvious that this report was wholly insufficient to justify the sale of the property for the payment of debts. It has been repeatedly decided by the supreme court, and such is the plain statutory law, that before the court has jurisdiction to order a sale of the real estate of heirs for the payment of their ancestors’ debts, it must be shown, by a settlement with the personal representative that the personal assets have been exhausted, or are clearly insufficient, and it must also be shown by the ascertainment of the debts of creditors, by actual decree, the precise amount of the debt for which the land is to be sold, and no more of the land can be sold than is necessary to pay such balance. Not only has there been in this case no settlement with the administrator, and no ascertainment of debts, but the papers handed me do not show that a single creditor has even filed a claim against the estate. Of course ' a decree, under such circumstances, for the sale of the realty of the infant defendants was not merely erroneous, but void. Frazier v. Panky, 1 Swan, 75; Code, § 2388; Gilchrist v. Cannon, 1 Cold. 581.
+It does not appear from the papers handed me that any sale has ever been had. But, if so, such sale can only he sustained upon one of the two other grounds of the bill.
+But it cannot be sustained upon the ground that it was mani-' festly for the interest of the infant defendants. For, a bill with this object, must be filed by the general guardian of the infants, and can be filed by no one else, at any rate by no person occupying the relation of these complainants to the infant defendants. Code, § 3324.
+The sale may, however, be sustained on the third ground, that complainant Edward Jones is entitled to have his share of the realty allotted to him in severalty, and that this cannot be done without a sale. Code, § 3293 ; Fulton v. Davidson, 3 Heisk. 614. But, in that view, the court might authorize the part of the lot on which the dwelling is situated to be bought for the infants, and held by them in common. They would be entitled to seven-eighths of the proceeds of sale.
+This case illustrates a loose practice, to which I have already more than once directed the attention of the bar, and which ought to be corrected. There is no decree at any time settling the rights of the parties in the lofin question. There has been a reference without settling anything, then a confirmation of the report without any decree upon the pleadings or the merits. There is, in truth, no such decree as gives the .court clear jurisdiction to sell for any purpose. There ought never to be any decree of reference without such preliminary adjudication.
