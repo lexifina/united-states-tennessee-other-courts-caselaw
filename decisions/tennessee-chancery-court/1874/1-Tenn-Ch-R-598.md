@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1874-04"
-citations: ["1 Tenn. Ch. R. 598", "1 Tenn. Ch. R. 594"]
+decided_precision: "month"
+citations: ["1 Tenn. Ch. R. 598"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["E. R. Pennebaker vs. H. T. Tomlinson & others."]
 source_url: "https://static.case.law/tenn-ch-r/1/cases/0598-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8482266
-cites_cases: ["1 Sneed 450", "10 Cush. 540", "14 Md. 285", "17 N. Y. 609", "35 Conn. 310", "4 Heisk. 104", "5 Pick. 75", "5 Sneed, 272"]
+cites_cases: ["1 Sneed 450", "10 Cush. 540", "14 Md. 285", "17 N. Y. 609", "35 Conn. 310", "5 Pick. 75", "5 Sneed, 272"]
 ---
 
 # Pennebaker v. Tomlinson
