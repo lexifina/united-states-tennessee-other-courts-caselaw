@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1873-04"
-citations: ["1 Tenn. Ch. R. 169", "1 Tenn. Ch. R. 183"]
+decided_precision: "month"
+citations: ["1 Tenn. Ch. R. 169"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["William Montgomery, Sr., vs. Olwell Bros. & others."]
 source_url: "https://static.case.law/tenn-ch-r/1/cases/0169-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8477195
-cites_cases: ["1 Head, 460", "2 Heisk. 217", "3 Sand. Ch. Rep. 273", "3 Sneed, 397", "4 Hay. 287", "7 C. 563", "7 Cold. 420"]
+cites_cases: ["1 Head, 460", "3 Sand. Ch. Rep. 273", "3 Sneed, 397", "4 Hay. 287", "7 C. 563", "7 Cold. 420"]
 ---
 
 # Montgomery v. Olwell Bros.
