@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1876-04"
-citations: ["2 Tenn. Ch. R. 627", "3 Tenn. Ch. R. 215"]
+decided_precision: "month"
+citations: ["2 Tenn. Ch. R. 627"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["N. B. Shepard vs. George F. Akers."]
 source_url: "https://static.case.law/tenn-ch-r/2/cases/0627-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8482599
-cites_cases: ["1 Yerg. 127", "2 Dev. Eq. 154", "2 Dev. Eq. 67", "2 Edw. 131", "2 Johns. Ch. 219", "22 Wall. 79", "3 Coldw. 512", "3 Yerg. 98", "4 Heisk. 407", "4 Johns. Ch. 448", "4 Sneed, 371"]
+cites_cases: ["2 Dev. Eq. 67", "2 Edw. 131", "2 Johns. Ch. 219", "4 Johns. Ch. 448"]
 ---
 
 # Shepard v. Akers
