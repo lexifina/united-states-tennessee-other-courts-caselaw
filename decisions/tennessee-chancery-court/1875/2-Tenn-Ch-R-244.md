@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1875-04"
-citations: ["2 Tenn. Ch. R. 244", "2 Tenn. Ch. R. 398"]
+decided_precision: "month"
+citations: ["2 Tenn. Ch. R. 244"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Bailey Johnson and wife vs. A. C. Tucker and others."]
 source_url: "https://static.case.law/tenn-ch-r/2/cases/0244-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8478738
-cites_cases: ["1 Edw. Ch. 7", "1 Johns. Ch. 103", "1 Johns. Ch. 106", "1 Johns. Ch. 48", "1 Story, 198", "1 Sumn. 578", "10 Yerg. 310", "10 Yerg. 54", "3 Humph. 661", "3 Stock. 39", "3 Story, 13", "3 Yerg. 563", "6 Humph. 37", "9 Humph. 568"]
+cites_cases: ["1 Edw. Ch. 7", "1 Johns. Ch. 103", "1 Johns. Ch. 106", "1 Johns. Ch. 48", "1 Story, 198", "1 Sumn. 578", "3 Story, 13", "3 Yerg. 563"]
 ---
 
 # Johnson v. Tucker
