@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1873-10"
-citations: ["1 Tenn. Ch. R. 500", "1 Tenn. Ch. R. 504"]
+decided_precision: "month"
+citations: ["1 Tenn. Ch. R. 500"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Henrietta McCall vs. John McCall & others."]
 source_url: "https://static.case.law/tenn-ch-r/1/cases/0500-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8481173
-cites_cases: ["1 Tenn. 59", "1 Wall. 1", "2 Head, 546", "3 Head, 63", "4 Sneed, 250"]
+cites_cases: ["1 Tenn. 59", "1 Wall. 1", "4 Sneed, 250"]
 ---
 
 # McCall v. McCall
