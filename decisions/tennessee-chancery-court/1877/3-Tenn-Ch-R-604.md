@@ -1,7 +1,8 @@
 ---
 court: "Tennessee Chancery Court"
 decided: "1877-10"
-citations: ["3 Tenn. Ch. R. 604", "3 Tenn. Ch. R. 478"]
+decided_precision: "month"
+citations: ["3 Tenn. Ch. R. 604"]
 reporter: "tenn-ch-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The Memphis and Charleston Railroad Company and others v. James L. Ga
 source_url: "https://static.case.law/tenn-ch-r/3/cases/0604-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8482779
-cites_cases: ["12 Wis. 616", "13 Wall. 268", "14 N. Y. 534", "15 Wall. 548", "18 Wall. 392", "2 Gill, 355", "28 Vt. 193", "3 Head, 343", "30 Mo. 558", "40 Ga. 646", "5 Gill, 236", "8 Ga. 486", "9 Yerg. 498", "92 U. S. 615", "93 U. S. 217"]
+cites_cases: ["13 Wall. 268", "18 Wall. 392", "2 Gill, 355", "28 Vt. 193", "3 Head, 343", "30 Mo. 558", "40 Ga. 646", "5 Gill, 236", "8 Ga. 486", "9 Yerg. 498", "93 U. S. 217"]
 ---
 
 # Memphis & Charleston Railroad v. Gaines
